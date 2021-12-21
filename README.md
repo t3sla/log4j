@@ -1,1 +1,1 @@
-# log4j
+# log4j -- regex that will catch **most** obfuscated JNDI strings
